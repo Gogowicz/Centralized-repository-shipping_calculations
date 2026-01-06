@@ -1,6 +1,4 @@
- # Here ois another update by Gogowicz
  # Here is a new update by Gogowicz
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
